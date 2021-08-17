@@ -1,4 +1,4 @@
-# d3-labeled-pie-chart
+# d3-pie-chart
 
 d3 library for rendering pie chart
 
