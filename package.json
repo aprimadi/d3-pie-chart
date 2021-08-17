@@ -1,7 +1,7 @@
 {
   "name": "d3-pie-chart",
   "author": "Armin Primadi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "main": "dist/es5/index.js",
   "module": "dist/es6/index.js",
@@ -33,4 +33,3 @@
   },
   "homepage": "https://github.com/aprimadi/d3-pie-chart#readme"
 }
-
